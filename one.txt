@@ -3,8 +3,6 @@ git is opensource
 git is a light weight
 git is commonly used
 git is easy tool
-<<<<<<< HEAD
 git is not difficult
-=======
 git is a good source
->>>>>>> 6b797dd7b0ffaa3f42e5bb7c8d528d133bff059b
+git is a comprehensive tool
