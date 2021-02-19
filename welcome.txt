@@ -1,4 +1,3 @@
-apple are red
 this is a demo file
 this is to demo updates to file
 this line is to demo git pull
