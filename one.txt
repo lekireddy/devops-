@@ -1,4 +1,4 @@
-
 git is popular tool
 git is opensource
 git is a light weight
+git is commonly used
